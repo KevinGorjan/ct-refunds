@@ -14,7 +14,7 @@ const config = {
 
     production: {
       applicationId: 'cl6eny21q31282401w30xlq7hrl',
-      url: 'https://ct-refunds.onrender.com',
+      url: 'https://your_app_hostname.com',
     },
   },
 
